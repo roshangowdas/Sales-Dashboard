@@ -159,6 +159,6 @@ Total Quantity = SUM('Input'[Quantity])
 1. Open the `.pbix` file in Power BI Desktop  
 2. Use slicers to filter data dynamically  
 3. Hover over visuals for detailed insights  
-4. Analyze trends across categories, devices
+4. Analyze trends across categories, devices, and time
 
 ---
